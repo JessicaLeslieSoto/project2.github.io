@@ -1,0 +1,12 @@
+@font-face {
+	 font-family: '3dumbregular';
+	 scr: url('3dumb_regular_macroman/3dumbregular-webfont.eot');
+	 scr: url('3dumb_regular_macroman/3dumbregular-webfont.eot?#iefix');
+
+	 font-weight: normal;
+	 font-style: normal;
+}
+
+h1,h2{
+	font-family: '3dumbregular' , serif;
+}

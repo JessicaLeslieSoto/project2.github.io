@@ -1,0 +1,14 @@
+
+ body { background: lightblue }
+  .picleft{
+
+    float:left;
+
+  }
+
+
+ .picright{
+
+    float:right;
+  
+  }
