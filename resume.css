@@ -1,12 +1,25 @@
-@font-face {
-	 font-family: '3dumbregular';
-	 scr: url('3dumb_regular_macroman/3dumbregular-webfont.eot');
-	 scr: url('3dumb_regular_macroman/3dumbregular-webfont.eot?#iefix');
-
-	 font-weight: normal;
-	 font-style: normal;
+.relexample
+{
+	background-color: #ccc;
+	position: relative;
+	left: 200px;
+	right: 20px;
 }
 
-h1,h2{
-	font-family: '3dumbregular' , serif;
+
+.example
+{
+	background-color: #ccc;
+	position: relative;
+	left: 200px;
+	right: 200px;
+}
+
+
+.sample
+{
+	background-color: #ccc;
+	position: relative;
+	left: 2000px;
+	right: 2000px;
 }
