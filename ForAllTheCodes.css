@@ -1,0 +1,67 @@
+body{
+  	background-color: gray;
+    font-family: Verdana, sans-serif;
+  }
+
+  body.cats{
+    background-color: pink;
+  }
+
+  .picleft{
+
+    float:left;
+    left: 4em;
+
+  }
+
+
+ .picright{
+
+    float:right;
+    left:-1em;
+    
+  
+  }
+
+  .pictop{
+
+    float:top;
+
+  }
+
+
+ .picbottom{
+
+    flex-wrap: wrap;
+    align-content:center;
+  
+  }
+
+  .relexample
+{
+    background-color: #ccc;
+    position: relative;
+    left: 6.25em;
+    right: 6.25em;
+    font-size:1.1em;
+}
+
+.sample
+{
+    background-color: #ccc;
+    position: relative;
+    left: 6.25em;
+    right: 6.25em;
+}
+
+ footer {
+    position: relative;
+    height: 1.25em;
+    background-color: #ccc;
+    clear: both;
+    font-size: 1em;
+    text-align: center;
+    color: #ccc;
+}
+
+  
